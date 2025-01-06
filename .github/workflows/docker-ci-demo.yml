@@ -2,7 +2,7 @@ name: Docker CI Demo
 on:
   push:
     branches:
-    - 'main'
+    - 'master'
     tags:
     - '**'
 jobs:
